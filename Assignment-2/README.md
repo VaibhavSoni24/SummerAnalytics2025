@@ -31,9 +31,6 @@ Model used: **Multiclass Logistic Regression** (only model allowed)
 | `program.py`           | Python code to preprocess, train, and predict    |
 | `data.csv`             | Final submission file (ID + predicted class)     |
 
-## ✅ Plagiarism-Free
-All code and logic are developed from scratch using only permitted libraries and models.
-
 ## 📈 Evaluation
 Final submission evaluated based on **classification accuracy**.
 
